@@ -2,7 +2,7 @@ Package.describe({
   name: 'mng:node-forge-client',
   summary: 'publish forge on the client',
   version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  git: 'git@github.com:managination/nod-forge-client.git'
 });
 
 Package.onUse(function(api) {
