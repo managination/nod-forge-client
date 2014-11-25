@@ -1,7 +1,7 @@
 Package.describe({
   name: 'mgn:node-forge-client',
   summary: 'publish forge on the client',
-  version: '1.0.1',
+  version: '1.0.2',
   git: 'https://github.com/managination/nod-forge-client.git'
 });
 

@@ -2,4 +2,5 @@
 
 see the documentation [here](https://github.com/digitalbazaar/forge)
 
-the package publishes a global variable `frg` which allows access to all forge functions
+This package adds a global `frg` variable to give access to the encryption, decryption
+and hashing functions from forge on the client.
