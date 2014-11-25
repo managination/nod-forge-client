@@ -1,7 +1,7 @@
 Package.describe({
   name: 'mgn:node-forge-client',
-  summary: 'publish forge on the client',
-  version: '1.0.2',
+  summary: 'This package adds a global `frg` variable to give access to the encryption, decryption and hashing functions from forge on the client.',
+  version: '1.0.3',
   git: 'https://github.com/managination/nod-forge-client.git'
 });
 
